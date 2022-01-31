@@ -12,3 +12,4 @@
  * Create responsive / interactive website for mobile using media quiery 
  * Create post forms for the email 
  * Create for each project href to show the project details.
+ * deploy the website.
